@@ -1,0 +1,19 @@
+{
+  "name": "winston",
+  "version": "0.0.0",
+  "description": "As in Churchill.",
+  "main": "winston.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://the.narro.ws/git/winston"
+  },
+  "author": "",
+  "license": "BSD",
+  "gitHead": "e9dc3a40ca7a8d50e10bb6c3cb0dbc9141f23d53",
+  "dependencies": {
+    "irc": "~0.3.6"
+  }
+}
